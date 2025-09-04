@@ -1,0 +1,18 @@
+# Go build artifacts
+/tmp/
+main
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
+
+# Docker volumes and files
+postgres_data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
